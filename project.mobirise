@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 8,
+    "uniqCompNum": 10,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png"
   },
