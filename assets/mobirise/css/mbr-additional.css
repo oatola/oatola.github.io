@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Mitr:200,300,400,500,600,700);
 
 
 
@@ -27,7 +28,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Mitr', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -1379,7 +1380,7 @@ body {
 .cid-rabLptiWee {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1064.jpg");
 }
 .cid-rabLptiWee .mbr-figure {
   margin: 0 auto;
@@ -1397,37 +1398,164 @@ body {
     width: 100% !important;
   }
 }
-.cid-rabPOocLrw {
+.cid-ri6CXtdhxs {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-ri6CXtdhxs .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-ri6CXtdhxs .section-text {
+  padding: 2rem 0;
+}
+.cid-ri6CXtdhxs .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-ri6CXtdhxs .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-ri6CLB2XtH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ri6CLB2XtH .counter-container {
+  color: #767676;
+}
+.cid-ri6CLB2XtH .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-ri6CLB2XtH .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-ri6CLB2XtH .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-ri6D8rmo1L {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-ri6D8rmo1L .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-ri6D8rmo1L .section-text {
+  padding: 2rem 0;
+}
+.cid-ri6D8rmo1L .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-ri6D8rmo1L .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-ri6CNR6kp6 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ri6CNR6kp6 .counter-container {
+  color: #767676;
+}
+.cid-ri6CNR6kp6 .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-ri6CNR6kp6 .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-ri6CNR6kp6 .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-ri6Dk3l5de {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ri6Dk3l5de .mbr-text,
+.cid-ri6Dk3l5de blockquote {
+  color: #767676;
+}
+.cid-ri6DtcsBE3 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
-.cid-rabPOocLrw .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-rabPOocLrw h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rabPOocLrw p {
+.cid-ri6DtcsBE3 .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
 }
-.cid-rabPOocLrw .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-ri6DtcsBE3 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-rabPOocLrw .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-ri6DtcsBE3 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-rabPOocLrw .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
+.cid-ri6DtcsBE3 .team-item .item-image img {
   width: 100%;
-  overflow: hidden;
+}
+.cid-ri6DtcsBE3 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-ri6DtcsBE3 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-ri6DtcsBE3 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-ri6DtcsBE3 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-ri6DtcsBE3 .team-item .item-caption {
+  background: #efefef;
 }
